@@ -7,3 +7,4 @@ var i = 0;
 ```
 var i = 0;
 pulled 1
+pulled 2
