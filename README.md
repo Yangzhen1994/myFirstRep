@@ -1,4 +1,4 @@
-﻿# myFirstRep
+# myFirstRep
 用来测试git
 ##这是我的第一个仓库
 ## 测试1
@@ -11,3 +11,5 @@ pulled 1
 pulled 2
 pulled 3
 pulled 4
+pulled 5
+pulled 6
